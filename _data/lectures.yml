@@ -9,16 +9,18 @@
 
 - topic: Javascript
   notes: 
-    - Client-side JS
-    - Manipulating the DOM
-    - Exploring HTML5
+    - Introduction: C09-Javascript.pdf
+    - Javascript in the browser: C09-Javascript-browser.pdf
+    - Building front-ends: C09-BuildingFrontends.pdf
+    - Exploring HTML5: C09-HTML5.pdf
     
 - topic: Web API
   notes:
-      - The HTTP protocol
-      - Server-side JS (NodeJS) 
-      - Building a REST API
-      - Ajax & JSON
+      - The HTTP protocol: C09-HTTP.pdf
+      - Web REST API
+      - Ajax
+      - JSON
+      - Server-side JS (NodeJS)     
   
 - topic: Storing Data
   notes: 
